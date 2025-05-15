@@ -5,7 +5,6 @@
 <h1 align="center">Olá, eu sou <strong>Lucas Stopinski da Silva</strong>! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Full+Stack+Next+e+Laravel;Apaixonado+por+Tecnologia;Sempre+Aprendendo" alt="Typing SVG" />
 </div>
 
 <p align="center">
