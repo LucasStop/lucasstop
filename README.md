@@ -4,9 +4,9 @@
 
 <h1 align="center">Lucas Stopinski da Silva</h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Full+Stack+Next+e+Laravel;Apaixonado+por+Tecnologia;Sempre+Aprendendo" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="#sobre-mim">Sobre Mim</a> •
@@ -137,7 +137,7 @@ Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **
 
 ---
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <i>"A tecnologia move o mundo, mas a criatividade move a tecnologia."</i>
 </div>
 
