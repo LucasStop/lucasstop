@@ -53,7 +53,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasStop&theme=radical" alt="GitHub streak"/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=LucasStop&color=green" alt="Profile views"/>
 
 ## 📫 Contato & Redes Sociais
 
@@ -138,6 +137,7 @@ Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **
 
 ---
 
-<div align="center">
+<div align="space-between">
   <i>"A tecnologia move o mundo, mas a criatividade move a tecnologia."</i>
+  <img src="https://komarev.com/ghpvc/?username=LucasStop&color=green" alt="Profile views"/>
 </div>
