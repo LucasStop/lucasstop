@@ -52,65 +52,15 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasStop&theme=radical" alt="GitHub streak"/>
-  <img src="https://komarev.com/ghpvc/?username=LucasStop&color=green" alt="Profile views"/>
 </div>
-
-## 💼 Experiência Profissional
-
-### Desenvolvedor Full Stack
-Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **Docker**, focando em performance, escalabilidade e clean code:
-
-- **O Parceiro** - Aplicativo de torneios esportivos
-- **AgendaMais** - Painel de gerenciamento empresarial
-- **Desafio CAT** - Plataforma de provas para operadores Caterpillar
-
-## 🔥 Projetos em Destaque
-
-### 🏆 O Parceiro
-> Aplicativo web para gerenciamento de torneios esportivos, com criação de equipes, agendamento automático de partidas e dashboard de estatísticas em tempo real.
-
-- **Link:** [Repositório](https://github.com/LucasStop/o-parceiro) • [Demo](#)
-- **Tecnologias:** Next.js, React, Node.js, TypeScript, MySQL
-
-### 📆 AgendaMais
-> Sistema de agendamento e controle de serviços para empresas, com CRM básico e relatórios gerenciais.
-
-- **Link:** [Repositório](https://github.com/LucasStop/agenda-mais) • [Demo](#)
-- **Tecnologias:** Laravel, Blade, PHP, MySQL, Docker
-
-### 🛠️ Desafio CAT
-> Plataforma completa para realização e gestão de provas de operadores da Caterpillar, com área pública e painel administrativo.
-
-- **Link:** [Repositório](https://github.com/LucasStop/desafio-cat) • [Demo](#)
-- **Tecnologias:** Next.js, Laravel, React Native
-
-## 🎓 Certificações
-
-### 🎤 Palestras e Eventos
-- **Análise de Vulnerabilidades e Hacking de Android** (CyberSec Week, PUCPR) – 1h30 – 06/05/2024
-- **Segurança Ofensiva – Red Team** (CyberSec Week, PUCPR) – 1h30 – 07/05/2024
-- **PD&I SUMMIT: Desafios e Oportunidades em Fomentos e Incentivos Fiscais** – 14/05/2024
-
-### 📚 Pesquisa Acadêmica
-- **Programa PIBIC Jr (PUCPR)**: "Abordagem Andragógica no Ensino de PLE" – 440 h (2022–2023)
-
-### 💻 Cursos de Desenvolvimento
-- **PHP: conceitos, lidando com dados, loops e mais** (Alura) – 6 h – 19/02/2024
-- **Avançando com PHP: Arrays, Strings, Função e Web** (Alura) – 8 h – 22/02/2024
-- **PHP: manipulando coleções com Arrays** (Alura) – 8 h – 26/02/2024
-- **PHP Strings: manipulando textos com PHP** (Alura) – 8 h – 26/02/2024
-- **Orientação a Objetos com PHP: Classes, métodos e atributos** (Alura) – 8 h – 28/02/2024
-- **Avançando com O.O. com PHP: Herança, Polimorfismo e Interfaces** (Alura) – 10 h – 10/03/2024
-- **PHP I/O: arquivos e streams** (Alura) – 10 h – 19/03/2024
-- **SEO: otimização de sites** (Alura) – 8 h – 13/07/2024
-
-## 🎓 Educação
-- **PUCPR** – Bacharelado em Sistemas de Informação (BSI)
-- **Período:** 2024 – presente
+  <img src="https://komarev.com/ghpvc/?username=LucasStop&color=green" alt="Profile views"/>
 
 ## 📫 Contato & Redes Sociais
 
 <div align="center">
+  <a href="mailto:lucasstopinskidasilva@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://github.com/LucasStop" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -125,9 +75,69 @@ Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **
   </a>
 </div>
 
+## 💼 Experiência Profissional
+
+### Desenvolvedor Full Stack
+
+Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **Docker**, focando em performance, escalabilidade e clean code:
+
+- **O Parceiro** - Aplicativo de torneios esportivos
+- **AgendaMais** - Painel de gerenciamento empresarial
+- **Desafio CAT** - Plataforma de provas para operadores Caterpillar
+
+## 🔥 Projetos em Destaque
+
+### 🏆 O Parceiro
+
+> Aplicativo web para gerenciamento de torneios esportivos, com criação de equipes, agendamento automático de partidas e dashboard de estatísticas em tempo real.
+
+- **Link:** [Repositório](https://github.com/LucasStop/o-parceiro) • [Demo](#)
+- **Tecnologias:** Next.js, React, Node.js, TypeScript, MySQL
+
+### 📆 AgendaMais
+
+> Sistema de agendamento e controle de serviços para empresas, com CRM básico e relatórios gerenciais.
+
+- **Link:** [Repositório](https://github.com/LucasStop/agenda-mais) • [Demo](#)
+- **Tecnologias:** Laravel, Blade, PHP, MySQL, Docker
+
+### 🛠️ Desafio CAT
+
+> Plataforma completa para realização e gestão de provas de operadores da Caterpillar, com área pública e painel administrativo.
+
+- **Link:** [Repositório](https://github.com/LucasStop/desafio-cat) • [Demo](#)
+- **Tecnologias:** Next.js, Laravel, React Native
+
+## 🎓 Certificações
+
+### 🎤 Palestras e Eventos
+
+- **Análise de Vulnerabilidades e Hacking de Android** (CyberSec Week, PUCPR) – 1h30 – 06/05/2024
+- **Segurança Ofensiva – Red Team** (CyberSec Week, PUCPR) – 1h30 – 07/05/2024
+- **PD&I SUMMIT: Desafios e Oportunidades em Fomentos e Incentivos Fiscais** – 14/05/2024
+
+### 📚 Pesquisa Acadêmica
+
+- **Programa PIBIC Jr (PUCPR)**: "Abordagem Andragógica no Ensino de PLE" – 440 h (2022–2023)
+
+### 💻 Cursos de Desenvolvimento
+
+- **PHP: conceitos, lidando com dados, loops e mais** (Alura) – 6 h – 19/02/2024
+- **Avançando com PHP: Arrays, Strings, Função e Web** (Alura) – 8 h – 22/02/2024
+- **PHP: manipulando coleções com Arrays** (Alura) – 8 h – 26/02/2024
+- **PHP Strings: manipulando textos com PHP** (Alura) – 8 h – 26/02/2024
+- **Orientação a Objetos com PHP: Classes, métodos e atributos** (Alura) – 8 h – 28/02/2024
+- **Avançando com O.O. com PHP: Herança, Polimorfismo e Interfaces** (Alura) – 10 h – 10/03/2024
+- **PHP I/O: arquivos e streams** (Alura) – 10 h – 19/03/2024
+- **SEO: otimização de sites** (Alura) – 8 h – 13/07/2024
+
+## 🎓 Educação
+
+- **PUCPR** – Bacharelado em Sistemas de Informação (BSI)
+- **Período:** 2024 – presente
+
 ---
 
 <div align="center">
   <i>"A tecnologia move o mundo, mas a criatividade move a tecnologia."</i>
 </div>
-
