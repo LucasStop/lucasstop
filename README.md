@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Foto de perfil" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/160746304?s=400&u=80de6ecd9d9ef0f17f7f96d895f394af804f99d3&v=4" alt="Foto de perfil" width="150" />
 </p>
 
 <h1 align="center">Olá, eu sou <strong>Lucas Stopinski da Silva</strong>! 👋</h1>
