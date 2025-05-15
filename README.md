@@ -53,9 +53,9 @@
 
 ## 💼 Experiência Profissional
 - **Desenvolvedor Full Stack** em projetos sob demanda utilizando **Next.js**, **Laravel** e **Docker**, focando em performance, escalabilidade e clean code:
-  - “O Parceiro” (app de torneios esportivos)  
-  - “AgendaMais” (painel de gerenciamento empresarial)  
-  - “Desafio CAT” (plataforma de provas para operadores Caterpillar)
+  - "O Parceiro" (app de torneios esportivos)  
+  - "AgendaMais" (painel de gerenciamento empresarial)  
+  - "Desafio CAT" (plataforma de provas para operadores Caterpillar)
 
 ## 🔥 Projetos em Destaque
 
@@ -74,26 +74,31 @@
 - **Link:** [Repositório](https://github.com/LucasStop/desafio-cat) • [Demo](#)  
 - **Tecnologias:** Next.js, Laravel, React Native.
 
-> 💡 *Adicione mais projetos conforme necessário seguindo este padrão.*
 
 ## 🎓 Certificações
-- **Palestra “Análise de Vulnerabilidades e Hacking de Android”** (CyberSec Week, PUCPR) – 1h30 – 06/05/2024 :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
-- **Palestra “Segurança Ofensiva – Red Team”** (CyberSec Week, PUCPR) – 1h30 – 07/05/2024 :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
-- **Participação no PD&I SUMMIT: Desafios e Oportunidades em Fomentos e Incentivos Fiscais** – 14/05/2024 :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
-- **Programa PIBIC Jr (PUCPR)**: “Abordagem Andragógica no Ensino de PLE” – 440 h (2022–2023) :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}  
-- **Curso PHP: conceitos, lidando com dados, loops e mais** (Alura) – 6 h – 19/02/2024 :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}  
-- **Curso Avançando com PHP: Arrays, Strings, Função e Web** (Alura) – 8 h – 22/02/2024 :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}  
-- **Curso PHP: manipulando coleções com Arrays** (Alura) – 8 h – 26/02/2024 :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}  
-- **Curso PHP Strings: manipulando textos com PHP** (Alura) – 8 h – 26/02/2024 :contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}  
-- **Curso Orientação a Objetos com PHP: Classes, métodos e atributos** (Alura) – 8 h – 28/02/2024 :contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}  
-- **Curso Avançando com O.O. com PHP: Herança, Polimorfismo e Interfaces** (Alura) – 10 h – 10/03/2024 :contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}  
-- **Curso PHP I/O: arquivos e streams** (Alura) – 10 h – 19/03/2024 :contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}  
-- **Curso SEO: otimização de sites** (Alura) – 8 h – 13/07/2024 :contentReference[oaicite:22]{index=22}:contentReference[oaicite:23]{index=23}
+
+### 🎤 Palestras e Eventos
+- **Análise de Vulnerabilidades e Hacking de Android** (CyberSec Week, PUCPR) – 1h30 – 06/05/2024
+- **Segurança Ofensiva – Red Team** (CyberSec Week, PUCPR) – 1h30 – 07/05/2024
+- **PD&I SUMMIT: Desafios e Oportunidades em Fomentos e Incentivos Fiscais** – 14/05/2024
+
+### 📚 Pesquisa Acadêmica
+- **Programa PIBIC Jr (PUCPR)**: "Abordagem Andragógica no Ensino de PLE" – 440 h (2022–2023)
+
+### 💻 Cursos de Desenvolvimento
+- **PHP: conceitos, lidando com dados, loops e mais** (Alura) – 6 h – 19/02/2024
+- **Avançando com PHP: Arrays, Strings, Função e Web** (Alura) – 8 h – 22/02/2024
+- **PHP: manipulando coleções com Arrays** (Alura) – 8 h – 26/02/2024
+- **PHP Strings: manipulando textos com PHP** (Alura) – 8 h – 26/02/2024
+- **Orientação a Objetos com PHP: Classes, métodos e atributos** (Alura) – 8 h – 28/02/2024
+- **Avançando com O.O. com PHP: Herança, Polimorfismo e Interfaces** (Alura) – 10 h – 10/03/2024
+- **PHP I/O: arquivos e streams** (Alura) – 10 h – 19/03/2024
+- **SEO: otimização de sites** (Alura) – 8 h – 13/07/2024
 
 ## 🎓 Educação
 - **PUCPR** – Bacharelado em Sistemas de Informação (BSI)  
-- **Período:** 2023 – presente
-
+- **Período:** 2024 – presente
+<!-- 
 ## 🎮 Hobbies e Interesses
 - 🕹️ Jogos eletrônicos (FPS e Indie)  
 - 📚 Leitura de ficção científica e tecnologia  
@@ -103,7 +108,7 @@
 ## 🎯 Objetivos e Missão
 - Tornar-me um especialista em arquiteturas **serverless** e **microsserviços**.  
 - Contribuir para projetos **open source** de grande impacto.  
-- Aprimorar minhas habilidades em **DevOps**, **Cloud** (AWS/GCP) e **CI/CD** nos próximos 2–5 anos.
+- Aprimorar minhas habilidades em **DevOps**, **Cloud** (AWS/GCP) e **CI/CD** nos próximos 2–5 anos. -->
 
 ## 📫 Contato & Redes Sociais
 <div align="center">
@@ -123,5 +128,5 @@
 
 ---
 
-> “A tecnologia move o mundo, mas a criatividade move a tecnologia.”
+> "A tecnologia move o mundo, mas a criatividade move a tecnologia."
 
