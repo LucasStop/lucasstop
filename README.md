@@ -139,5 +139,8 @@ Desenvolvimento de projetos sob demanda utilizando **Next.js**, **Laravel** e **
 
 <div align="center">
   <i>"A tecnologia move o mundo, mas a criatividade move a tecnologia."</i>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasStop&color=green" alt="Profile views"/>
 </div>
